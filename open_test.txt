@@ -1,0 +1,17 @@
+01_1.lsp Need 2 arguments, but got 0.  (或是 syntax error)
+01_2.lsp syntax error, unexpected '-'   (或是 syntax error)
+02_1.lsp 1 2 3 4
+02_2.lsp 0 -123 456
+03_1.lsp 133 2 -1 -256
+03_2.lsp 1 0 9
+04_1.lsp #t #f #f #t #t #f #f #t
+04_2.lsp #t #t #f
+05_1.lsp 1 2
+05_2.lsp 6 1
+06_1.lsp 1 6
+06_2.lsp 26
+07_1.lsp 4 9
+07_2.lsp 610 0
+08_1.lsp 91
+08_2.lsp 3
+

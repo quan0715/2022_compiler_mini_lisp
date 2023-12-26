@@ -1,0 +1,8 @@
+b1_1.lsp 2 6 24 3628800 1 2 5 55 6765
+b1_2.lsp 4 2 27
+b2_1.lsp Type error!
+b2_2.lsp Type error!
+b3_1.lsp 25
+b3_2.lsp 9 8
+b4_1.lsp 11
+b4_2.lsp 9
